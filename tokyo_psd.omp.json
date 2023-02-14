@@ -104,6 +104,12 @@
             "alignment": "left",
             "segments": [
                 {
+                    "foreground": "#8b5cf6",
+                    "style": "plain",
+                    "template": "<#ffffff>\uebc7</> <#a1a1aa>:</> {{ .Name }} ",
+                    "type": "shell"
+                },
+                {
                     "foreground": "#a1a1aa",
                     "style": "plain",
                     "template": "<#ffffff>\uf85a</> RAM: ",
