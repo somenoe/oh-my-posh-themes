@@ -22,7 +22,7 @@
                 {
                     "foreground": "#8b5cf6",
                     "properties": {
-                        "time_format": "03:04:05"
+                        "time_format": "15:04:05"
                     },
                     "style": "diamond",
                     "template": "{{ .CurrentDate | date .Format }}",
