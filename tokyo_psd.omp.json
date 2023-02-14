@@ -106,7 +106,7 @@
                 {
                     "foreground": "#8b5cf6",
                     "style": "plain",
-                    "template": "<#ffffff>\uebc7</> <#a1a1aa>:</> {{ .Name }} ",
+                    "template": "<#ffffff>\uf489</> {{ .Name }} ",
                     "type": "shell"
                 },
                 {
